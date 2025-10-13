@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { TypeAnimation } from 'react-type-animation'
 import { FiMail, FiPhone, FiMapPin, FiGithub, FiLinkedin, FiGlobe, FiDownload, FiEye } from 'react-icons/fi'
-import profileImg from '../images/profile_img1.jpg';
+import profileImg1 from '../images/profile_img1.jpg';
 
 const Hero = ({ darkMode }) => {
   const handleDownloadResume = () => {
