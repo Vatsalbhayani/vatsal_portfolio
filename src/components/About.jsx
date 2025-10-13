@@ -57,7 +57,7 @@ const About = ({ darkMode }) => {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src={profileImg}
+                src={profileImg2}
                 alt="Vatsal Bhayani"
                 className="w-full h-auto object-cover"
               />
