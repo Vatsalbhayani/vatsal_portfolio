@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion'
 import { TypeAnimation } from 'react-type-animation'
 import { FiMail, FiPhone, FiMapPin, FiGithub, FiLinkedin, FiGlobe, FiDownload, FiEye } from 'react-icons/fi'
+import profileImg from '../images/profile_img1.jpg';
 
 const Hero = ({ darkMode }) => {
   const handleDownloadResume = () => {
@@ -175,7 +176,7 @@ const Hero = ({ darkMode }) => {
                 className="relative z-10 rounded-2xl overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/Images/WhatsApp Image 2025-04-15 at 13.29.30_9a3248a8.jpg"
+                  src={profileImg}
                   alt="Vatsal Bhayani - Software Developer"
                   className="w-full h-auto object-cover"
                 />

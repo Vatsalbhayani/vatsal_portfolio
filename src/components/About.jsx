@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'
 import { FiCode, FiDatabase, FiServer, FiZap } from 'react-icons/fi'
+import profileImg from '../images/profile_img2.jpg';
 
 const About = ({ darkMode }) => {
   const ref = useRef(null)
@@ -56,7 +57,7 @@ const About = ({ darkMode }) => {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/Images/WhatsApp Image 2025-10-08 at 14.17.21_098cdcec.jpg"
+                src={profileImg}
                 alt="Vatsal Bhayani"
                 className="w-full h-auto object-cover"
               />
