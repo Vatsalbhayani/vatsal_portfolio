@@ -176,7 +176,7 @@ const Hero = ({ darkMode }) => {
                 className="relative z-10 rounded-2xl overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/images/profile_img2.jpg"
+                  src={profileImg1}
                   alt="Vatsal Bhayani - Software Developer"
                   className="w-full h-auto object-cover"
                 />
