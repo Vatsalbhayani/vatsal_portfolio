@@ -82,7 +82,7 @@ const About = ({ darkMode }) => {
             
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               Proactive and versatile <span className="text-primary font-semibold">Full Stack Developer</span> with 
-              <span className="text-accent font-semibold"> 1 year of experience</span> designing, developing, and 
+              <span className="text-accent font-semibold"> 1.5+ year of experience</span> designing, developing, and 
               maintaining scalable web applications.
             </p>
 
