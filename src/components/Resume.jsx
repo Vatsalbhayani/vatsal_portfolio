@@ -142,7 +142,7 @@ const Resume = ({ darkMode }) => {
               PROFESSIONAL SUMMARY
             </h3>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-              Proactive and versatile Full Stack Developer with 1 year of experience designing, developing, 
+              Proactive and versatile Full Stack Developer with 1.5+ year of experience designing, developing, 
               and maintaining scalable web applications. Skilled in PHP (Laravel), Python (Django), JavaScript, 
               MySQL, and REST APIs. Hands-on experience building live projects (AMC system, CRM, Ticketing, Library) 
               with clean architecture (MVC/MVT), responsive UI, and automation.
