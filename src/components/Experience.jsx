@@ -67,11 +67,11 @@ const Experience = ({ darkMode }) => {
                   <div className="flex flex-wrap gap-4 text-sm text-gray-600 dark:text-gray-400">
                     <div className="flex items-center gap-2">
                       <FiCalendar className="text-accent" />
-                      <span>February 2025 – August 2025</span>
+                      <span>January 2025 - October 2026</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <FiMapPin className="text-primary" />
-                      <span>6 months</span>
+                      <span>1.5 years+</span>
                     </div>
                   </div>
                 </div>
