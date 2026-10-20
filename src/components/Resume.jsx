@@ -189,7 +189,7 @@ const Resume = ({ darkMode }) => {
                     </h4>
                     <p className="text-primary font-semibold">Mukesoft Company</p>
                   </div>
-                  <p className="text-gray-600 dark:text-gray-400 font-semibold">Feb 2025 – Aug 2025</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-semibold">January 2025 - October 2026</p>
                 </div>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-300 text-sm">
                   <li>Developed web applications using Laravel and Django frameworks with MySQL integration</li>
